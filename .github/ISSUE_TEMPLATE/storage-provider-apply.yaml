@@ -1,0 +1,48 @@
+name: Storage Provider Apply Join MFIL
+description: Computing power nodes of storage suppliers join MFIL through application.
+title: "[SP Apply] <SP - organization name>"
+labels: 'Proposal'
+body:
+- type: markdown
+  attributes:
+    value: |
+      Fill out the form below and it will be approved by the Storage Provider committee.
+- type: input
+  attributes:
+    label: Organization Name
+    placeholder: Enter organization name
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Profile
+    render: text
+    description: Please briefly describe your organization
+    placeholder: Enter profile
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Mailing Address
+    render: text
+    description: Please fill in a mailing address where you can be contacted in an emergency
+    placeholder: Enter mailing address
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Social Account
+    description: Please fill in a social account that can get in touch with you in an emergency
+    placeholder: Enter a social account, such as twitter@James
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Miner ID
+    description: Please fill in at least one miner ID
+    placeholder: Enter miner ID, Please use multiple IDs, separated
+  validations:
+    required: true
+      
+  
+  
