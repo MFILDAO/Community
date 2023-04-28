@@ -75,7 +75,7 @@ Please refer to [SECURITY.md](./SECURITY.md) document found in this repo on how 
 
 If you are new to the MFIL Project, below are some helpful links for you to learn more about it:
 - Official website: [https://mfil.org](https://mfil.org)  
-- Dapp: [https://dapp.mfil.org](https://dapp.mfil.org)  
+- Dapp: [https://app.mfil.org](https://app.mfil.org)  
 - Storage Provider Portal: [https://sp.mfil.org](https://sp.mfil.org)  
 - Docs: [https://mfil.gitbook.io/](https://mfil.gitbook.io/)
 
