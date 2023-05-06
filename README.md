@@ -12,7 +12,7 @@
 
 ## About
 
-Welcome to the MFIL DAO community repository! You can treat this repo as your go-to for all meta, non-code discussions in the [*Discussions Forum*](https://github.com/sghmok/Community/discussions), documents used by multiple repositories (such as the Code of Conduct), and how to interact with the MFIL project and other community members.
+Welcome to the MFIL DAO community repository! You can treat this repo as your go-to for all meta, non-code discussions in the [*Discussions Forum*](https://github.com/MFILDAO/Community/discussions), documents used by multiple repositories (such as the Code of Conduct), and how to interact with the MFIL project and other community members.
 
 To get the latest network notifications, subscribe to [discord@MFILDAO](https://discord.gg/PRDVfgpsku).
 
@@ -34,15 +34,15 @@ Implementation dev teams tend to check their corresponding GitHub repo issues an
 
 We also push updates to the community via:
 
-- Forum: [@MFIL DAO Community Forum](https://github.com/sghmok/Community/discussions)
-- Discord: [@MFILDAO](https://discord.gg/PRDVfgpsku)
+- Forum: [@MFIL DAO Community Forum](https://github.com/MFILDAO/Community/discussions)
+- Discord: [@MFILDAO](https://discord.gg/MFILDAO)
 - Twitter: [@MFILDAO](https://twitter.com/MFILDAO)
 - Telegram: [@MFILDAO](https://t.me/MFILDAO)
 - Medium: [@MFILDAO](https://medium.com/@mfildao)
 
 ### MFIL DAO Community Forum
 
-When in doubt or curiosity, please post in [MFIL DAO community forum](https://github.com/sghmok/Community/discussions)!
+When in doubt or curiosity, please post in [MFIL DAO community forum](https://github.com/MFILDAO/Community/discussions)!
 
 We love to hear what the community has to say, whether it is to:
 
@@ -52,16 +52,16 @@ We love to hear what the community has to say, whether it is to:
 - Find collaborators for your own community project
 - And whatever else! Honestly!
 
-The discussion forum uses the same [Code of Conduct](https://github.com/sghmok/Community/blob/main/CODE-OF-CONDUCT.md) as our other community channels. Please make sure to read this before posting.
+The discussion forum uses the same [Code of Conduct](https://github.com/MFILDAO/Community/blob/main/CODE-OF-CONDUCT.md) as our other community channels. Please make sure to read this before posting.
 
 ### GitHub issues
 
 If you find something puzzling or encounter a straight-up bug in any of our repositories, please file a well-scoped issue. The issue lists for our most active repositories are below:
 
-- [`Community`](https://github.com/sghmok/Community/issues)
-- [`MIPs`](https://github.com/sghmok/MIPs/issues)
-- [`MFIL-Contracts`](https://github.com/sghmok/MFIL-Contracts/issues)
-- [`MFD-Contracts`](https://github.com/sghmok/MFD-Contracts/issues)
+- [`Community`](https://github.com/MFILDAO/Community/issues)
+- [`MIPs`](https://github.com/MFILDAO/MIPs/issues)
+- [`MFIL-Contracts`](https://github.com/MFILDAO/MFIL-Contracts/issues)
+- [`MFD-Contracts`](https://github.com/MFILDAO/MFD-Contracts/issues)
 
 If a repo has a Contributing Guide, please read it before filing an issue!
 
@@ -77,7 +77,7 @@ If you are new to the MFIL Project, below are some helpful links for you to lear
 - Official website: [https://mfil.org](https://mfil.org)  
 - Dapp: [https://app.mfil.org](https://app.mfil.org)  
 - Storage Provider Portal: [https://sp.mfil.org](https://sp.mfil.org)  
-- Docs: [https://mfil.gitbook.io/](https://mfil.gitbook.io/)
+- Docs: [https://mfil.gitbook.io/](https://mfil.gitbook.io/doc/)
 
 ## Maintainers
 
