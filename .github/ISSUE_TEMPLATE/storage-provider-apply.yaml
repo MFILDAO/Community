@@ -18,7 +18,7 @@ body:
     label: Introduction of operation entity
     render: text
     description: Please give a short introduction about your SP entity
-    placeholder: Enter profile
+    placeholder: Please give a short introduction about your SP entity
   validations:
     required: true
 - type: textarea
@@ -26,13 +26,13 @@ body:
     label: Entity address
     render: text
     description: Please give the detailed address of your entity
-    placeholder: Enter mailing address
+    placeholder: Please give the detailed address of your entity
   validations:
     required: true
 - type: input
   attributes:
     label: Media exposure
-    description: Please fill in a social account that can get in touch with you in an emergency
+    description: Please provide the media exposure links such as social media account，official website or other internet links
     placeholder: Please provide the media exposure links such as social media account，official website or other internet links
   validations:
     required: true
