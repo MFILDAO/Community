@@ -9,31 +9,31 @@ body:
       Fill out the form below and it will be approved by the Storage Provider committee.
 - type: input
   attributes:
-    label: Organization Name
-    placeholder: Enter organization name
+    label: SP operation entity name
+    placeholder: Please enter full name of the legal entity (individual or corporation)
   validations:
     required: true
 - type: textarea
   attributes:
-    label: Profile
+    label: Introduction of operation entity
     render: text
-    description: Please briefly describe your organization
+    description: Please give a short introduction about your SP entity
     placeholder: Enter profile
   validations:
     required: true
 - type: textarea
   attributes:
-    label: Mailing Address
+    label: Entity address
     render: text
-    description: Please fill in a mailing address where you can be contacted in an emergency
+    description: Please give the detailed address of your entity
     placeholder: Enter mailing address
   validations:
     required: true
 - type: input
   attributes:
-    label: Social Account
+    label: Media exposure
     description: Please fill in a social account that can get in touch with you in an emergency
-    placeholder: Enter a social account, such as twitter@James
+    placeholder: Please provide the media exposure links such as social media account，official website or other internet links
   validations:
     required: true
 - type: input
