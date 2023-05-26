@@ -17,11 +17,3 @@ If you find a code error, please report it in the issue of the corresponding rep
 ### response process
 
 Our core developers poll each repository for issues, and fix bugs and security holes within 30 days of discovering or receiving them.
-
-### write at the end
-
-- Please do not discuss security vulnerabilities in public communities.
-- Please do not discuss security vulnerabilities in public communities.
-- Please do not discuss security vulnerabilities in public communities.
-
-Thanks.
